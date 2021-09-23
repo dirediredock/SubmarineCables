@@ -1,5 +1,5 @@
 # SubmarineCables
-Parsing and visualizing [telegeography](https://raw.githubusercontent.com/telegeography/www.submarinecablemap.com/master/web/public/api/v3/cable/cable-geo.json)'s submarine cable JSON dataset.
+Parsing and visualizing [telegeography](https://github.com/telegeography)'s submarine cable JSON dataset [cable-geo.json](https://raw.githubusercontent.com/telegeography/www.submarinecablemap.com/master/web/public/api/v3/cable/cable-geo.json).
 
 Figure below from `SubmarineCables.m`, requires the `PolyLattice.mat` dataset, which is found in this repo.
 
