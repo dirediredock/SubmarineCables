@@ -5,7 +5,7 @@ Output of `SubmarineCables.m`
 
 <img src="https://raw.githubusercontent.com/dirediredock/SubmarineCables/main/Figures/A01.png" width="100%">
 
-Output of `SphericalCables.m`
+Output of `SphericalCables.m`, requires datasets `polyArray.mat` from `SubmarineCables.m`
 
 <img src="https://raw.githubusercontent.com/dirediredock/SubmarineCables/main/Figures/A02.png" width="100%">
 <img src="https://raw.githubusercontent.com/dirediredock/SubmarineCables/main/Figures/A03.png" width="100%">
